@@ -1,3 +1,4 @@
 # RxSwift_Study
-## 새싹 멤버들과 함께하는 rx 스터디 개인 레포입니다.
-## [ssacRXstudyRepo](https://github.com/ssaciOS)
+<b>새싹 멤버들과 함께하는 RxSwift 스터디의 개인 레포입니다.</b>
+<br>
+<br><b>[ssacRXstudyRepo](https://github.com/ssaciOS) 바로가기</b>
